@@ -61,4 +61,5 @@ Overall Activation Rate: 57.5%.
 - Technical Constraints: Performance of the Power BI dashboard can be affected by the volume of data and complexity of DAX queries.
 
 # References
-- Dashboard : [Link].()
+- Dashboard : [Link](https://github.com/gayatrikuracha/Credit-Card-Operations-/blob/main/Credit%20card%20report.pbix)
+  
